@@ -11,10 +11,12 @@ int main(){
     for (int row = 0; row < n; row++){
 
         // spaces 
-
         for (int col = 0 ; col < n - (row + 1); col++){
-            
+            cout <<" ";
         }
+
+        // stars 
+        for
     }
    
 
